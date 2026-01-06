@@ -40,4 +40,4 @@ W obu przypadkach, implementacja write oraz flush zmienia siê.
 Sam template w logerze powoduje jedno krytyczne zachowanie. Co jeœli u¿ytkownik chce aby logger pisa³ w konsoli i w pliku jednoczeœnie.
 Przez to skorzysta³em z dodatkowego wzorca.
 
-###### PS: nie pisa³em w œrodowisku .NET, ze wzglêdu na preferencje przyzwyczajenia
+###### PS: nie pisa³em w œrodowisku .NET, ze wzglêdu na preferencje przyzwyczajenia.
